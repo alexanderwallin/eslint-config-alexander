@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-alexander",
+  "version": "1.0.0",
+  "description": "ESLint config for me (Alexander Wallin)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderwallin/eslint-config-alexander.git"
+  },
+  "author": "Alexander Wallin <office@alexanderwallin.com> (http://alexanderwallin.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderwallin/eslint-config-alexander/issues"
+  },
+  "homepage": "https://github.com/alexanderwallin/eslint-config-alexander#readme"
+}
