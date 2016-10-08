@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexanderwallin/eslint-config-alexander/issues"
   },
-  "homepage": "https://github.com/alexanderwallin/eslint-config-alexander#readme"
+  "homepage": "https://github.com/alexanderwallin/eslint-config-alexander#readme",
+  "dependencies": {
+    "eslint-config-xo": "^0.16.0"
+  }
 }
