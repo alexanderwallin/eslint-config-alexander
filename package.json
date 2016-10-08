@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alexanderwallin/eslint-config-alexander#readme",
   "dependencies": {
-    "eslint-config-xo": "^0.16.0"
+    "eslint-config-xo": "^0.16.0",
+    "eslint-plugin-import": "^2.0.0"
   }
 }
