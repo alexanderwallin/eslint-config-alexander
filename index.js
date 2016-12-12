@@ -12,6 +12,7 @@ module.exports = {
     'padded-blocks': 0,
     'radix': ['error', 'as-needed'],
     'semi': ['error', 'never'],
+    'space-before-function-paren': ['error',  {'anonymous': 'never', 'named': 'never', 'asyncArrow': 'always'}],
 
     // import
     'import/no-unresolved': 'error',
