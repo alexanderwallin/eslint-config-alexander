@@ -5,7 +5,7 @@ module.exports = {
     'arrow-parens': 0,
     'brace-style': ['error', 'stroustrup'],
     'comma-dangle': ['error', 'always-multiline'],
-    'indent': ['error', 2],
+    'indent': ['error', 2, { "SwitchCase": 1 }],
     'no-use-before-define': 0,
     'object-curly-spacing': ['error', 'always'],
     'operator-linebreak': ['error', 'before'],
